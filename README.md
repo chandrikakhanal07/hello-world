@@ -1,2 +1,3 @@
 # hello-world
-none
+hey people,
+i am chandrika khanal
